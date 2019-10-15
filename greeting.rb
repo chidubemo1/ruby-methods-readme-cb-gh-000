@@ -1,5 +1,5 @@
 def greeting
-  prints "Hello World"
+  print "Hello World"
 end
 
 3.times{ greeting }
